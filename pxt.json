@@ -1,5 +1,5 @@
 {
-    "name": "0617",
+    "name": "미세먼지 센서",
     "description": "",
     "dependencies": {
         "core": "*",
